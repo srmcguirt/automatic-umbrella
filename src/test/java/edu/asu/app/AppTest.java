@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package edu.asu.app;
 
 import org.junit.Test;
 
